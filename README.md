@@ -2,6 +2,8 @@
 
 Chroniclr was my team's submission to the nwHacks 2020 Hackathon. This web application served as a way for users to gamify their life, earning points for completing their goals and leveling up in the process.
 
+![Chroniclr Screenshot](https://i.imgur.com/yUOEKt2.png)
+
 How It Works:
 
 Client
