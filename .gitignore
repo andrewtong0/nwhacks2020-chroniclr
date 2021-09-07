@@ -1,3 +1,5 @@
 server/auth.py
 .vscode/settings.json
 /venv
+*.xml
+*.iml
